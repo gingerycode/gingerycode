@@ -34,7 +34,7 @@
 ```json
 {
    "gingercode": {
-        "About me": "I use Arch BTW",
+        "About Me": "I use Arch BTW",
         "My Stack": ["I code Go BTW", "Lua btw", "Typescript", "Python"],
    }
 }
