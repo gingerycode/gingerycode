@@ -12,7 +12,7 @@
   <a href="https://www.tiktok.com/@gingercode">
   <img src="https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" />
  </a>
-<a href="https://t.me/+VMGZJl7IIHYxNGIx">
+<a href="https://t.me/vi_in_frame">
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
  </a>
  <br>
